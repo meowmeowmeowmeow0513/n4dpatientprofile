@@ -1,0 +1,5 @@
+{
+  "name": "N4D Patient Profiler",
+  "description": "A secure, client-side patient profile management tool for Public Health Nursing rotations.",
+  "requestFramePermissions": []
+}
